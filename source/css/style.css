@@ -1,0 +1,10 @@
+#bant_overlay {position: fixed;z-index:9999;width:100%; height:100%;top:0; left:0; right:0; bottom:0;}
+#bant_overlay_wrapper {position: fixed; width: 300px; height: 200px; top:50%; left: 50%; margin:-110px 0 0 -160px; background: rgba(255,255,255,0.7); border-radius:20px; padding:10px; box-shadow: 0 0 10px rgba(0,0,0,0.2)}
+#bant_overlay_wrapper_inner {width: 300px; height:200px; background: #fff; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);}
+#bant_overlay input {outline: none; border:1px solid #f1f1f1; float: left; margin:0 5px 0 0 ;}
+#bant_overlay #bant_alpha {width:90px;}
+#bant_overlay_controls {padding:10px 5px 0 10px;}
+#bant_preview {background: #055DCC; color:#fff; font-family: Arial; font-size:13px; border:1px solid #0022aa !important; float:right !important; cursor: pointer; padding:2px 5px; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,33,200,0.5)}
+#bant_datauri {width:280px; height:120px; margin:10px 0 0 0; border: 1px solid #f1f1f1; font-family: Arial; font-size: 12px; float:left; outline: none; padding:0;}
+#bant_image {width: 280px; height:20px; margin-top:5px; float:left; padding:0;}
+#bant_image img {width: 100%; height:100%;padding:0;}
